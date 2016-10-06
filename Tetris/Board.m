@@ -144,8 +144,6 @@
         
         [self assignValueToPositionOfCurrent:2];
     }
-    else
-        [self gameOver];
 }
 
 - (void)gameStart{
